@@ -1,11 +1,11 @@
 import mysql.connector
 
 connection = mysql.connector.connect(
-    host='127.0.0.1',
-    port= 3306,
+    host='xxx.x.x.x',
+    port= 0000,
     database = 'bank',
     user= 'root',
-    password='mehdizaidane1',
+    password='xxxxxxxxxxxxx',
     autocommit= True
 )
 
